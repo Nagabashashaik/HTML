@@ -139,5 +139,15 @@
   <li>To add padding on table cells,we use the <code>cellpadding</code> attribute</li>
   <li><code>syntax:- &LTtable cellpadding="specified_value"></code></li>
 </ul>
-<h4>example:</h4>
+<h4>example:here you can clearly observe the difference between normal table and a padding table</h4>
+<img src="padding_difference.png">
+
+<h2>SPACING:-</h2>
+<ul>
+  <li>Spacing in html tables means,the space or gap between the two cells is known as Spacing or simply,Cell spacing is the space between each cell.</li>
+  <li>By default the space is set to 2 pixels.</li>
+  <li><code>syntax:- &LTtable cellspacing="specifid_value"></code></li>
+</ul>
+<h4>example:here you can clearly observe the difference between normal table and a spacing table</h4>
+<img src="spacing_difference.png">
 
