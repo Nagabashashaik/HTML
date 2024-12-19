@@ -100,6 +100,9 @@
   <li>Generally,table headings are written in the top most of the table cells(table columns) or sometimes it may written in the side most cells(table rows)of the table.</li>
   <li>Writing headings in the top most table cells is called the <b>"HORIZONTAL TABLE HEADERS"</b></li>
   <li>Writing headings in the side most of the table cells is called the <b>"VERTICAL TABLE HEADERS"</b></li>
+  <li>example for general table:- <a href="basicTableExample.html">click me</a></li>
+  <li>example for horizontal headers:- <a href="horizontalTableHeaders.html">click me</li>
+  <li>example for vertical headers:- <a href="verticalTableHeaders.html">click me</li>
 </ul>
 
 
