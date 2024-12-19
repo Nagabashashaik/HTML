@@ -80,11 +80,28 @@
        <td>EEE</td>
        <td>O220897</td>
       </tr>
+    </table>
      </body>
   </html>
 
 <ul>
   <li>In the above example, we have used <code>border</code> . This is a attribute used in table start_tag.</li>
   <li><code>border</code> attribute is used to apply the borders(outlines) for the entire table.</li>
-  <li><code>syntax:- &LTtable border="value" >; value= either 0 or 1 (by default it will be 0)</code></li>
+  <li><code>syntax:- &LTtable border="value" >; value= either 0 or greater than 0 (by default it will be 0)</code></li>
+  <li>If you increase the value then,the size of the border of a table also increases</li>
 </ul>
+
+<h1>1.CREATING A TABLE HEADERS (VERTICALLY & HORIZONTALLY)</h1>
+<ul>
+  <li>To create a table headings we can use the <code>&LTth></code> tag</li>
+  <li><code>&LTth></code> stands for <b>"table heading"</b></li>
+  <li><code>syntax:-&LTth>--table_heading--&LT/th></code></li>
+  <li>Whatever the data(heading) you have written between the <code>&LTth> and &LT/th></code> that data will be appears boldly(thick or darkly) in the output so that we can easily differentiate the table headings from the table data</li>
+  <li>Generally,table headings are written in the top most of the table cells(table columns) or sometimes it may written in the side most cells(table rows)of the table.</li>
+  <li>Writing headings in the top most table cells is called the <b>"HORIZONTAL TABLE HEADERS"</b></li>
+  <li>Writing headings in the side most of the table cells is called the <b>"VERTICAL TABLE HEADERS"</b></li>
+</ul>
+
+
+
+
