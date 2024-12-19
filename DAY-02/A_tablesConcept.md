@@ -122,7 +122,22 @@
 </ul>
 <h4>example for a colspan or merging of two columns</h4>
 <a href="colspan.html"><img src="colspan_output.png"></a>
-<h4>example for a rowspan or merging of two columns</h4>
-<a href="rowspan.html"><img src="rowspan_output.png"></a>
+<h4>example for a rowspan or merging of two rows</h4>
+<a href="rowspan.html"><img src="rowspan_output.png"></a>NTACT
+01	Ashwitha	O220122	CSE	9000xxxxxx
+02	Ankit	O226621	CSE	9282xxxxxx
+03	Friedal	O220981	ECE	9412xxxxxx
+04	Engidi	O220745	CSE	9988xxxxxx
+05	Joseph	O220444	ECE	8423xxxxxx
+06	Ashwitha	O220122	CSE	6302xxxxxx
 
+<h1>TABLE PADDING AND SPACING</h1>
+<ul>
+  <h2>PADDING:-</h2>
+  <li>Padding in html means, the space or gap between the data in the cell to the border of that cell or simply, Cell padding is the space between the cell edges and the cell content.
+  <li>By default the padding is set to 0.</li>
+  <li>To add padding on table cells,we use the <code>cellpadding</code> attribute</li>
+  <li><code>syntax:- &LTtable cellpadding="specified_value"></code></li>
+</ul>
+<h4>example:</h4>
 
