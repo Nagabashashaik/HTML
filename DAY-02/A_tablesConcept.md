@@ -117,7 +117,12 @@
   <li><code>syntax:- &LTtd colspan="no.of_cols_you_have_to_span/merge"></code></li>
   <li>To make a cell span over multiple rows, we use the <code>rowspan</code> attribute</li>
   <li><code>syntax:- &LTtd rowspan="no.of_rows_you_have_to_span/merge"></code></li>
-  
-  
+  <li>you have to be careful while merging/spanning the rows or columns because, sometimes you need to delete a row or col while you are merging a row/col. so, remind this point </li>
+  <li>You can merge no.of rows and cols at a time no limitations is there.</li>
 </ul>
+<h4>example for a colspan or merging of two columns</h4>
+<a href="colspan.html"><img src="colspan_output.png"></a>
+<h4>example for a rowspan or merging of two columns</h4>
+<a href="rowspan.html"><img src="rowspan_output.png"></a>
+
 
