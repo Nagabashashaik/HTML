@@ -102,11 +102,11 @@
   <li>Writing headings in the side most of the table cells is called the <b>"VERTICAL TABLE HEADERS"</b></li>
 </ul>
 <h4>example for a basic table:-</h4>
-<a href="basicTable.html"><img src="basicTable_output.png" height="400" width="850"></a>
+<a href="basicTableExample.html"><img src="basicTable_output.png" height="400" width="850"></a>
 <h4>example for a Horizontal header table:-</h4>
-<a href="horizontalHeaderTable.html"><img src="horizontalTableHeaders_output.png" height="400" width="850"></a>
+<a href="horizontalTableHeaders.html"><img src="horizontalTableHeaders_output.png" height="400" width="850"></a>
 <h4>example for a vertical header table:-</h4>
-<a href="verticalHeaderTable.html"><img src="verticalHeaders_output.png" height="400" width="850"></a>
+<a href="verticalTableHeaders.html"><img src="verticalHeaders_output.png" height="400" width="850"></a>
 
 
 <h1>3.MERGING ROWS AND COLS</h1>
