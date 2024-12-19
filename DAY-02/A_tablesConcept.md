@@ -100,11 +100,24 @@
   <li>Generally,table headings are written in the top most of the table cells(table columns) or sometimes it may written in the side most cells(table rows)of the table.</li>
   <li>Writing headings in the top most table cells is called the <b>"HORIZONTAL TABLE HEADERS"</b></li>
   <li>Writing headings in the side most of the table cells is called the <b>"VERTICAL TABLE HEADERS"</b></li>
-  <li>example for general table:- <a href="basicTableExample.html">click me</a></li>
-  <li>example for horizontal headers:- <a href="horizontalTableHeaders.html">click me</li>
-  <li>example for vertical headers:- <a href="verticalTableHeaders.html">click me</li>
 </ul>
+<h4>example for a basic table:-</h4>
+<a href="basicTable.html"><img src="basicTable_output.png" height="400" width="850"></a>
+<h4>example for a Horizontal header table:-</h4>
+<a href="horizontalHeaderTable.html"><img src="horizontalTableHeaders_output.png" height="400" width="850"></a>
+<h4>example for a vertical header table:-</h4>
+<a href="verticalHeaderTable.html"><img src="verticalHeaders_output.png" height="400" width="850"></a>
 
 
-
+<h1>3.MERGING ROWS AND COLS</h1>
+<ul>
+  <li>Sometimes we need to merge some rows,cols and cells</li>
+  <li>This can be done by using the <code>rowspan</code> and <code>colspan</code> attributes. these attributes are used in the starting tags of <code>&LTth></code> or <code>&LTtd></code></li>
+  <li>To make a cell span over multiple columns, we use the <code>colspan</code> attribute</li>
+  <li><code>syntax:- &LTtd colspan="no.of_cols_you_have_to_span/merge"></code></li>
+  <li>To make a cell span over multiple rows, we use the <code>rowspan</code> attribute</li>
+  <li><code>syntax:- &LTtd rowspan="no.of_rows_you_have_to_span/merge"></code></li>
+  
+  
+</ul>
 
